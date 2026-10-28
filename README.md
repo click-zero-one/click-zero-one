@@ -3,87 +3,87 @@
 
 # `click-zero-one`
 
-### `> Hello, World!_`
+```text
+┌──(click-zero-one㉿github)-[~]
+└─$ whoami
 
-**Linux Enthusiast • Developer • Open Source Explorer**
+Linux Enthusiast | Developer | Problem Solver
+```
 
-<img src="https://raw.githubusercontent.com/click-zero-one/click-zero-one/output/github-snake.svg" alt="GitHub Contribution Snake" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=800&color=39FF88&center=true&vCenter=true&width=500&lines=%24+Hello%2C+World!;%24+sudo+apt+install+creativity;%24+git+commit+-m+%22keep+building%22;%24+while+true%3B+do+learn%3B+done" alt="Terminal animation"/>
 
-[![GitHub followers](https://img.shields.io/github/followers/click-zero-one?label=Followers&style=for-the-badge&logo=github&color=181717)](https://github.com/click-zero-one?tab=followers)
-[![Profile Views](https://komarev.com/ghpvc/?username=click-zero-one&style=for-the-badge&color=blueviolet)](https://github.com/click-zero-one)
+**`BUILD • DEBUG • REPEAT`**
+
+[![GitHub](https://img.shields.io/badge/GitHub-click--zero--one-181717?style=for-the-badge&logo=github)](https://github.com/click-zero-one)
+[![Profile Views](https://komarev.com/ghpvc/?username=click-zero-one&style=for-the-badge&color=39FF88)](https://github.com/click-zero-one)
 
 </div>
 
 ---
 
-## `whoami`
-
-Hi there! 👋 I'm **click-zero-one**.
-
-I'm a technology enthusiast interested in Linux, programming, open-source software, and exploring how things work under the hood.
-
-I enjoy learning new technologies, experimenting with tools, and turning curiosity into practical projects. My goal is to keep improving, build useful things, and grow through every line of code.
+## `01 // ABOUT`
 
 ```bash
-$ whoami
-click-zero-one
-
-$ echo $MINDSET
-Learn. Build. Experiment. Repeat.
+$ cat about.txt
 ```
 
-## `./about-me.sh`
+Hey! I'm **click-zero-one**, a technology enthusiast passionate about Linux, software development, and open-source technology.
 
-- 🐧 Interested in Linux and the command line
-- 💻 Exploring software development and programming
-- 🛠️ Learning Git, GitHub, and development tools
-- 🌐 Interested in open-source projects and technology
-- 🎯 Focused on continuous learning and practical improvement
+I enjoy exploring how systems work, experimenting with development tools, solving problems, and learning by building projects. I'm always looking for ways to improve my skills and turn new ideas into practical solutions.
 
-## `tech-stack`
+- 🐧 Interested in Linux and open-source software
+- 💻 Exploring development and automation
+- ⚙️ Learning by building real projects
+- 🧩 Enjoy solving problems and exploring new ideas
+- 🎯 Focused on continuous learning and improvement
+
+## `02 // TECH STACK`
 
 <p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode,python,docker&theme=dark" alt="Tech stack"/>
 </p>
 
-## `github-stats`
+## `03 // PROJECTS`
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=click-zero-one&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=click-zero-one&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-</div>
-
-## `contribution-graph`
-
-<div align="center">
-
-![GitHub Contribution Snake](https://raw.githubusercontent.com/click-zero-one/click-zero-one/output/github-snake.svg)
-
-</div>
-
-## `current-mission`
-
-```text
-[+] Learn something new
-[+] Build meaningful projects
-[+] Explore open source
-[+] Improve every day
+```bash
+$ ls ~/projects
 ```
 
-## `connect`
+I'm building my skills one project at a time.
+
+Check out my repositories for experiments, projects, and things I'm learning along the way.
+
+**→ [Explore my repositories](https://github.com/click-zero-one?tab=repositories)**
+
+## `04 // GITHUB STATS`
 
 <div align="center">
 
-If you're interested in technology, Linux, or open source, feel free to explore my repositories and connect!
+<img src="https://github-readme-stats.vercel.app/api?username=click-zero-one&show_icons=true&theme=chartreuse-dark&hide_border=true" alt="GitHub stats"/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-click--zero--one-181717?style=for-the-badge&logo=github)](https://github.com/click-zero-one)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=click-zero-one&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Top languages"/>
 
-**"Stay curious. Keep building. Never stop learning."**
+</div>
+
+## `05 // CONTRIBUTION SNAKE`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/click-zero-one/click-zero-one/output/github-snake.svg" alt="GitHub Contribution Snake" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+```text
+┌──(click-zero-one㉿github)-[~]
+└─$ echo "Thanks for visiting!"
+```
+
+**`Stay curious. Keep building.`**
+
+`EOF`
 
 </div>
