@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./click-zero-one-banner.png" alt="click-zero-one banner" width="100%" />
+  <img src="./Neon Developer Studio_ Click-Zero-One.png" alt="click-zero-one banner" width="100%" />
 </div>
 
 ---
