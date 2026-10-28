@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="./click-zero-one-banner.png" alt="click-zero-one — AI, Machine Learning, Data Science, Networking, Hardware, Electronics and Frontend" width="100%" />
+<img src="./Neon Developer Studio_ Click-Zero-One.png" alt="click-zero-one — AI, Machine Learning, Data Science, Networking, Hardware, Electronics and Frontend" width="100%" />
 
 # `click-zero-one`
 
