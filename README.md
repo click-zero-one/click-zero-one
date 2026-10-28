@@ -65,3 +65,11 @@ Connection closed.
 **Stay curious. Keep building.**
 
 </div>
+
+
+
+### 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/click-zero-one/click-zero-one/output/github-snake.svg)
+
+![Snake animation dark](https://raw.githubusercontent.com/click-zero-one/click-zero-one/output/github-snake-dark.svg)
