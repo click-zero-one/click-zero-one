@@ -10,7 +10,9 @@
 Linux Enthusiast | Developer | Problem Solver
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=800&color=39FF88&center=true&vCenter=true&width=500&lines=%24+Hello%2C+World!;%24+sudo+apt+install+creativity;%24+git+commit+-m+%22keep+building%22;%24+while+true%3B+do+learn%3B+done" alt="Terminal animation"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2200&pause=700&color=39FF88&center=true&vCenter=true&width=600&lines=%24+initializing+click-zero-one...;%24+loading+linux+environment...;%24+git+status+--short;%24+sudo+apt+install+creativity;%24+learning+cybersecurity...;%24+while+true%3B+do+learn%3B+done;%24+access+granted.+welcome+back." alt="Click Zero One Terminal Animation" />
+
 
 **`BUILD • DEBUG • REPEAT`**
 
